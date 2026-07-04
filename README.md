@@ -1,5 +1,7 @@
 # 👮 Villas Politi Garderobe
 
+DOCS: https://vm-store.gitbook.io/vm-store-docs
+
 Et simpelt og optimeret **politi garderobe system** til FiveM, hvor spillere kan skifte uniform ved politistationer.
 
 ---
