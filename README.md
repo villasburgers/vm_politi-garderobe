@@ -8,13 +8,13 @@ Et simpelt og optimeret **politi garderobe system** til FiveM, hvor spillere kan
 
 # ✨ Features
 
-- 👕 Politigarderobe system
+- 👕 Politigarderobe system (Tag nemt Politi outfits på)
 - 📍 Flere lokationer via config
 - 🧥 Custom uniforms baseret på job/grade
 - 🎯 Target/interaction support
 - ⚡ Let og optimeret script
 - 🔒 Sikker client/server struktur
-- 🧩 Nem tilpasning
+- 🧩 Nem tilpasning i config.lua
 
 ---
 
